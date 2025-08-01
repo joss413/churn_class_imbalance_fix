@@ -3,7 +3,7 @@ This project explores the impact of handling class imbalance using undersampling
 regression-based churn prediction task. The Iranian Churn Dataset is used to evaluate how different resampling techniques affect classification performance, especially on the minority class.
 
 ## 📊 Dataset
-Source: UCI Machine Learning Repository – Iranian Churn Dataset
+This project uses the [Iranian Churn Dataset](https://archive.ics.uci.edu/dataset/563/iranian+churn+dataset) from the UCI Machine Learning Repository.
 
 Target Variable: Churn
 
